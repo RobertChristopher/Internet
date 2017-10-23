@@ -43,3 +43,6 @@ https://en.wikipedia.org/wiki/Internet_protocol_suite
  http://humansarefree.com/2017/07/they-cant-read-my-thoughts-right-wrong.html
  http://humansarefree.com/2017/03/5g-iot-total-technological-control-grid.html
  http://humansarefree.com/2017/10/the-internet-of-things-new-world-order.html
+ http://humansarefree.com/2015/03/whatever-it-is-weaponize-it.html
+ http://freedom-articles.toolsforfreedom.com/commercialization-weaponization/
+ http://humansarefree.com/2017/03/5g-iot-total-technological-control-grid.html
