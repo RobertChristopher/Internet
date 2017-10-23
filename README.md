@@ -25,6 +25,7 @@ Commonly referred to as TCP/IP as foundational protocols in the suite are the Tr
 
 The Department of Defense (DoD) model, because the development of the networking method was funded by the United States Department of Defense through DARPA.
 
+http://www.fiercetelecom.com/special-report/vint-cerf-and-bob-kahn-co-inventors-tcp-ip-protocol
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 ###### Internet
@@ -36,6 +37,7 @@ https://en.wikipedia.org/wiki/Internet_protocol_suite
  
  The Internet is an implementation of an internetworked
  https://en.wikipedia.org/wiki/Internetworking
+
  
  # IoT - Internet of things and the 5g control grid
  http://humansarefree.com/2017/07/they-cant-read-my-thoughts-right-wrong.html
