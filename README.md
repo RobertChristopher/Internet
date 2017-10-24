@@ -28,6 +28,11 @@ The Department of Defense (DoD) model, because the development of the networking
 http://www.fiercetelecom.com/special-report/vint-cerf-and-bob-kahn-co-inventors-tcp-ip-protocol
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 
+# World Wide Web
+The terms Internet and World Wide Web are often used without much distinction. However, the two are not the same. The Internet is a global system of interconnected computer networks. In contrast, the World Wide Web is a global collection of documents and other resources, linked by hyperlinks and URIs. Web resources are usually accessed using HTTP, which is one of many Internet communication protocols.[
+
+ https://en.wikipedia.org/wiki/World_Wide_Web
+ 
 ###### Internet
  * Inter - place (a corpse) in a grave or tomb, typically with funeral rites.
  * Net - a network of computers
@@ -46,3 +51,4 @@ https://en.wikipedia.org/wiki/Internet_protocol_suite
  http://humansarefree.com/2015/03/whatever-it-is-weaponize-it.html
  http://freedom-articles.toolsforfreedom.com/commercialization-weaponization/
  http://humansarefree.com/2017/03/5g-iot-total-technological-control-grid.html
+ http://humansarefree.com/2017/09/darpa-using-warfare-technology-on.html
